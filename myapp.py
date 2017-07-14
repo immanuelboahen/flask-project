@@ -6,7 +6,7 @@ app = Flask(__name__)
 def index():
 	return "hello this is Immanuels website. Enjoy"
 
-@app.route('whereami'):
+@app.route('whereami')
 def whereami():
 	return "k.t.u lab 1"
 
