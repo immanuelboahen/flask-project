@@ -1,0 +1,104 @@
+<html>
+<head>
+<style>
+body {
+    background-color: lightblue;
+}
+</style>
+
+<a href="https://github.com/iotinafrica/material/wiki"<li>Home</li></a>
+<a href="facebook.com"<li>About</li></a>
+	<a href="facebook.com"<li>Contact</li></a><br>
+	<a href="https://www.facebook.com/nanakwasiboahen">Check out my Python Lessons</a>
+
+
+<html>
+<head>
+<style>
+div {
+    width: 100px;
+    height: 50px;
+    background-color: red;
+    font-weight: bold;
+    position: relative;
+    -webkit-animation: mymove 5s infinite; /* Safari 4.0 - 8.0 */
+    animation: mymove 5s infinite;
+}
+
+/* Safari 4.0 - 8.0 */
+#div1 {-webkit-animation-timing-function: linear;}
+#div2 {-webkit-animation-timing-function: ease;}
+#div3 {-webkit-animation-timing-function: ease-in;}
+#div4 {-webkit-animation-timing-function: ease-out;}
+#div5 {-webkit-animation-timing-function: ease-in-out;}
+
+/* Standard syntax */
+#div1 {animation-timing-function: linear;}
+#div2 {animation-timing-function: ease;}
+#div3 {animation-timing-function: ease-in;}
+#div4 {animation-timing-function: ease-out;}
+#div5 {animation-timing-function: ease-in-out;}
+/* Safari 4.0 - 8.0 */
+@-webkit-keyframes mymove {
+    from {left: 0px;}
+    to {left: 300px;}
+}
+
+/* Standard syntax */
+@keyframes mymove {
+    from {left: 0px;}
+    to {left: 300px;}
+}
+
+</style>
+</head>
+</html>
+
+
+<html>
+<body>
+
+<div id="div1">Linux</div>
+<div id="div2">Tutorials</div>
+<div id="div3">For</div>
+<div id="div4">Beginners</div>
+
+</body></html>
+
+
+<html>
+<head>
+<style>
+body {
+    background-image: url("https://ee5817f8e2e9a2e34042-3365e7f0719651e5b8d0979bce83c558.ssl.cf5.rackcdn.com/python.png");
+}
+</body>
+</html>
+ <html>
+<body background="bgimage.jpg">
+</body>
+<html>
+<head>
+<style>
+h1 {
+    background-color: green;
+}
+
+</style>
+</head>
+<body>
+
+
+<h1><br><br><br><br></h1>
+<h1>WELCOME TO LINUX LESSONS</h1>
+
+</body>
+</html>
+ 
+ 
+ <h2>LESSON ONE<h4>(Basic commands)</h4></h2>
+ <p>We started by learning some terminal commands e.g Ctrl+alt+t to open a terminal. 
+<br>Next we learnt about the "man" command which shows a manual page for a certain topic<br>We also learnt how to navicate in using the "cd" command
+Use cd ~ to go back to the directory you were in<br> Some other codes include "ls" command</p>
+
+<h3>LESSON TWO <h4>(Editing text)</h4></h3>

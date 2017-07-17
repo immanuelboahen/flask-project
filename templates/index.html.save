@@ -1,0 +1,8 @@
+<html>
+	<body>
+		<h1>hello world this is immanuel</h1>
+		<h1>I enjoy working with computers</h1>
+		<p>Insert an image from another folder:</p>
+		<img src="/home/pi/dev/flask-project/templates" alt="Stickman" width="24" heigh
+	</body>
+</html>
